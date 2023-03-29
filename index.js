@@ -39,9 +39,7 @@
 
 
 
-
-
-
+ 
 
     // Before 8.30     ||  Welcome to the class
     // 8.30 − 8.50     ||  You are late
