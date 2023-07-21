@@ -4,7 +4,7 @@
 //     pin:4488,
 // };
 
-// let enteredPin = 4488;
+// let enteredPin = 4488; 
       
 
 // if (enteredPin === myZaad.pin){
