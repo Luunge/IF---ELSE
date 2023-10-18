@@ -2,7 +2,7 @@
 //     name: "Abdirahman",
 //     phone:"4864657",
 //     pin:4488,
-// };  
+// };
 
 // let enteredPin = 4488;  
  
