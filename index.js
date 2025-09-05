@@ -1,7 +1,7 @@
 // let myZaad = {
 //     name: "Abdirahman",
 //     phone:"4864657",
-//     pin:4488,
+//     pin:4488, 
 // };
 
 // let enteredPin = 4488;  
@@ -53,3 +53,4 @@
     } else {
         console.log("Go to your home")
     }
+
